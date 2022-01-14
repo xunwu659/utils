@@ -2,7 +2,7 @@
 
 declare (strict_types=1);
 
-namespace basic;
+namespace spore\basic;
 
 use think\facade\App;
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace utils;
+namespace spore\utils;
 
 
 use think\facade\Cache;

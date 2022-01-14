@@ -1,6 +1,6 @@
 <?php
 
-namespace basic;
+namespace spore\basic;
 
 use think\facade\Config;
 

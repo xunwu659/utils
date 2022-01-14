@@ -1,6 +1,6 @@
 <?php
 
-namespace utils;
+namespace spore\utils;
 
 /**
  * 字符串操作帮助类

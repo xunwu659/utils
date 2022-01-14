@@ -1,6 +1,6 @@
 <?php
 
-namespace utils;
+namespace spore\utils;
 
 class QRcode extends \dh2y\qrcode\QRcode
 {

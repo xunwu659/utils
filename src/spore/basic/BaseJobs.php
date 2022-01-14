@@ -1,7 +1,6 @@
 <?php
 
-
-namespace basic;
+namespace spore\basic;
 
 
 use interfaces\JobInterface;

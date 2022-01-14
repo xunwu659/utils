@@ -1,7 +1,7 @@
 <?php
 
 
-namespace utils;
+namespace spore\utils;
 
 /**
  * 错误码统一存放类

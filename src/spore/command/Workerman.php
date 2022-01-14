@@ -1,6 +1,6 @@
 <?php
 
-namespace command;
+namespace spore\command;
 
 use app\services\system\config\SystemConfigServices;
 use Channel\Server;

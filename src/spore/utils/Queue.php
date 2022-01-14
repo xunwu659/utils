@@ -1,7 +1,7 @@
 <?php
 
 
-namespace utils;
+namespace spore\utils;
 
 use traits\ErrorTrait;
 use think\facade\Config;

@@ -1,7 +1,7 @@
 <?php
 
 
-namespace basic;
+namespace spore\basic;
 
 use traits\ModelTrait;
 use think\Model;

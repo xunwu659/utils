@@ -1,6 +1,6 @@
 <?php
 
-namespace command;
+namespace spore\command;
 
 use think\console\Command;
 use think\console\Input;
