@@ -1,0 +1,35 @@
+{
+    "name": "xunwu/utils",
+    "description": "A simple tool.",
+    "keywords": [
+        "tool"
+    ],
+    "homepage": "http://www.baidu.com/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xunwu",
+            "email": "xunwu659@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2.5"
+    },
+    "require-dev": {
+        "mikey179/vfsstream": "^1.6",
+        "mockery/mockery": "^1.2",
+        "phpunit/phpunit": "^7.0",
+        "guzzlehttp/psr7": "^2.1.0"
+    },
+    "autoload": {
+        "files": [],
+        "psr-4": {
+            "spore\\": "src/spore/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "config": {
+        "sort-packages": true
+    }
+}
