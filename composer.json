@@ -27,7 +27,7 @@
             "spore\\": "src/spore/"
         }
     },
-    "minimum-stability": "1.0.0",
+    "minimum-stability": "dev",
     "prefer-stable": true,
     "config": {
         "sort-packages": true
